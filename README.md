@@ -9,8 +9,9 @@
 <p align="center">
 	The application has been created to show with more clarity to the user your favorite repositories. The clean layout makes an easier view for the users, showing the stars, forks and issues of each repository.
 </p>
-<h1>Technologies used in this application:<h1>
 
+# Technologies used in this application:
+  
 ### GitHub API (api.github.com)
 ### React.js (WebClient)
 - Axios (HTTP Client)
