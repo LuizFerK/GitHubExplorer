@@ -75,7 +75,7 @@ In case you don't have an SSH key on your GitHub account, you can clone the proj
 
 # :bulb: Getting started
 
-1. Open the folder and run ```yarn``` to install the dependencies;
+1. Open the folder and run ```yarn``` to install the dependencies
 2. Run ```yarn start``` to open the web application on port 3000. (the app will open in your browser automatically)
 3. Now, search the repository name: (example) ```facebook/react```
 
@@ -85,8 +85,8 @@ In case you don't have an SSH key on your GitHub account, you can clone the proj
 
 ### ReactJS
 - Axios
-- Styled Components
 - React Router DOM
+- Styled Components
 
 # :bug: Issues
 
