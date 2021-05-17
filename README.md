@@ -8,26 +8,26 @@
 
 <p align="center">
 	<a href="https://github.com/LuizFerK">
-		<img alt="Author" src="https://img.shields.io/badge/author-Luiz%20Fernando-FF872C?style=flat" />
+		<img alt="Author" src="https://img.shields.io/badge/author-Luiz%20Fernando-8E54E9?style=flat" />
 	</a>
 	<a href="#">
-		<img alt="Languages" src="https://img.shields.io/github/languages/count/LuizFerK/GitHubExplorer?color=%23FF872C&style=flat-" />
+		<img alt="Languages" src="https://img.shields.io/github/languages/count/LuizFerK/GitHubExplorer?color=8E54E9&style=flat" />
 	</a>
 	<a href="hhttps://github.com/LuizFerK/GitHubExplorer/stargazers">
-		<img alt="Stars" src="https://img.shields.io/github/stars/LuizFerK/GitHubExplorer?color=FF872C&style=flat" />
+		<img alt="Stars" src="https://img.shields.io/github/stars/LuizFerK/GitHubExplorer?color=8E54E9&style=flat" />
 	</a>
 	<a href="https://github.com/LuizFerK/GitHubExplorer/network/members">
-		<img alt="Forks" src="https://img.shields.io/github/forks/LuizFerK/GitHubExplorer?color=%23FF872C&style=flat" />
+		<img alt="Forks" src="https://img.shields.io/github/forks/LuizFerK/GitHubExplorer?color=8E54E9&style=flat" />
 	</a>
 	<a href="https://github.com/LuizFerK/GitHubExplorer/graphs/contributors">
-		<img alt="Contributors" src="https://img.shields.io/github/contributors/LuizFerK/GitHubExplorer?color=FF872C&style=flat" />
+		<img alt="Contributors" src="https://img.shields.io/github/contributors/LuizFerK/GitHubExplorer?color=8E54E9&style=flat" />
 	</a>
 </p>
 
 <p align="center">
 	<b>A clean way to find your favorites repositories on GitHub!</b><br />
   The clean layout makes an easier view for the users, showing the stars, forks and issues of each repository.<br />
-	<span>Created with Node.js, ReactJS, all with Typescript.</span><br />
+	<span>Created with ReactJS and Typescript.</span><br />
 	<sub>Made with ❤️</sub>
 </p>
 
@@ -51,13 +51,13 @@
 
 - Clean search for GitHub repositories
 - Save your favorites repositories to see them later
-- Overview for all informations about each repository
+- Overview for all information about each repository
 
 # :wrench: Installation
 
 ### Required :warning:
-- Yarn
 - Node.js
+- Yarn
 
 ### SSH
 
@@ -67,15 +67,15 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you h
 
 ### HTTPS
 
-In case you don't have an SSH key on your GitHub account, you can clone the project using the HTTPS URL, run this command:
+In case you don't have an SSH key on your GitHub account, you can clone the project using the HTTPS URL. To do it, run this command:
 
 ```git clone https://github.com/LuizFerK/GitHubExplorer.git```
 
-**Both of this commands will generates a folder called GitHubExplorer, with all the project**
+**Both of these commands will generate a folder called GitHubExplorer, with all the project**
 
 # :bulb: Getting started
 
-1. Open the folder an run ```yarn``` to install the dependencies;
+1. Open the folder and run ```yarn``` to install the dependencies;
 2. Run ```yarn start``` to open the web application on port 3000. (the app will open in your browser automatically)
 3. Now, search the repository name: (example) ```facebook/react```
 
